@@ -1,0 +1,41 @@
+html {
+  background: url(images/pic01.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover
+}
+
+.resizeText {
+  resize: vertical;
+}
+
+p {
+  font-family: abel, Arial, sans-serif
+}
+
+body {
+  padding-top: 20px;
+  font-size: 20px;
+  font-family: abel, Arial, sans-serif;
+  background: 0 0
+}
+
+h1 {
+  font-family: abel, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 40px
+}
+
+.panel {
+  background-color: rgba(255, 255, 255, .9)
+}
+
+.margin-base-vertical {
+  margin: 40px 0
+}
+
+#profilepic {
+  width: 50px;
+  float: right
+}
