@@ -10,6 +10,10 @@ html {
   resize: vertical;
 }
 
+.container {
+  width: 40%
+}
+
 p {
   font-family: abel, Arial, sans-serif
 }
